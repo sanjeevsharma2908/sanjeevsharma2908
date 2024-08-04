@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding-img" width="400" src="https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/09/Full-stack-developer-1.png">
+<img  alt="coding-img" width="100%" src="https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/09/Full-stack-developer-1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevsharma2908&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevsharma2908" /> </p>
 
